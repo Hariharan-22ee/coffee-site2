@@ -1,0 +1,55 @@
+body {
+  background-color: pink;
+  background-image: url(/image/background.jpg);
+  background-size: 1000px;
+}
+.logo {
+  margin-left: 500px;
+}
+.quote {
+  color: 000;
+  text-align: center;
+  font-family: cursive;
+}
+
+.menu {
+  padding: 20px;
+  color: darkblue;
+  border: 0;
+}
+.menu {
+  font-size: 20px;
+  border-radius: 20px;
+  text-align: center;
+}
+.title {
+  color: chocolate;
+}
+p {
+  font-style: italic;
+  color: maroon;
+}
+.houseblend {
+  background-color: gold;
+  border-radius: 15px;
+  padding: 15px;
+  text-align: left;
+  font-size: 20px;
+}
+.frenchroast {
+  background-color: green;
+  border-radius: 15px;
+  padding: 15px;
+  text-align: left;
+  font-size: 20px;
+}
+.colombian {
+  background-color: lightblue;
+  border-radius: 15px;
+  padding: 15px;
+  text-align: left;
+  font-size: 20px;
+}
+.branch {
+  background-color: cornflowerblue;
+}
